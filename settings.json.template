@@ -1804,7 +1804,7 @@
     //                     WARNING: Be sure to change the default secret code as it is only a sample and will be the first code that malicious users try to use to manipulate your explorer's data
     "plugin_secret_code": "SJs2=&r^ScLGLgTaNm7#74=s?48zf*4+vm5S",
     // allowed_plugins: A collection of settings that pertain to the list of plugins allowed to be used with this explorer instance
-    //                  You can add as many plugins as necessary in the following format: [ { "plugin_name": "new_plugin_1", "enabled": "true" }, { "plugin_name": "new_plugin_2", "enabled": "false" } ]
+    //                  You can add as maney plugins as necessary in the following format: [ { "plugin_name": "new_plugin_1", "enabled": "true" }, { "plugin_name": "new_plugin_2", "enabled": "false" } ]
     //                  NOTE: Plugins enabled here must also have the actual plugin downloaded into the explorer's /plugins directory with the same name as the plugin_name specified here or they will be ignored
     "allowed_plugins": [
       {
